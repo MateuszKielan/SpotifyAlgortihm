@@ -1,6 +1,5 @@
 # ComputationalThinking28
-This repository corresponds to Computational Thinking Project
-Group: 28
+This repository corresponds to Spotify Algorithm project.
 Creators: Mateusz Kielan, Jan Burakowski, Szymon Czternasty, IJsbrand de Meijere
 
 This project is about creating a spotify algorithm for the "Discover weekly feature"
@@ -17,5 +16,5 @@ File structure:
 How to open the project:
   1. Open the main.py and run it.
   2. When running main.py you will get an message to input the file name in the terminal. You can choose any name.
-  3. After that press enter and a txt file will appear in the directory. This is the file with output for all 3 tasks.
+  3. After that press enter and a txt file will appear in the directory. This is the file with output songs.
  
