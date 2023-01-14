@@ -55,7 +55,7 @@ for i in range(1, 101):
 
 output_file_name = input('What will be the name of your output file? ')
 
-path = Path(__file__).parent / f'../ComputationalThinking28/{output_file_name}.txt'
+path = Path(__file__).parent / f'../SpotifyAlgorithm/{output_file_name}.txt'
 
 # writing to the file
 with open(path, 'w', encoding='utf-8') as out_file:
